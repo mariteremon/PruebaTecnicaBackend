@@ -14,11 +14,11 @@
 
 #### 3.  Existe una clase abstracta llamada `Cuenta` de la cual se deben heredar dos clases `CuentaDebito` y `CuentaCredito`.
 
- ![Cuenta](https://raw.githubusercontent.com/jcgeneration/PruebaBack/main/img/Cuenta.png)
+ ![Cuenta](https://raw.githubusercontent.com/jcgeneration/PruebaTecnicaBackend/main/img/Cuenta.png)
 
 
 
-![Diagrama Clases](https://raw.githubusercontent.com/jcgeneration/PruebaBack/main/img/DiagramaClasesPaquete.png)
+![Diagrama Clases](https://raw.githubusercontent.com/jcgeneration/PruebaTecnicaBackend/main/img/DiagramaClasesPaquete.png)
 
 
 #### 4. `CuentaDebito` debe implementar el constructor, la siguiente propiedad y métodos:
@@ -86,7 +86,7 @@ i) Método toString que llame al método de la clase `Cuenta` de la siguiente ma
 
 
 
-![Tarjeta Regalo](https://raw.githubusercontent.com/jcgeneration/PruebaBack/main/img/TarjetaRegalo.png)
+![Tarjeta Regalo](https://raw.githubusercontent.com/jcgeneration/PruebaTecnicaBackend/main/img/TarjetaRegalo.png)
 
 
 
